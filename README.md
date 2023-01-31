@@ -2,6 +2,5 @@
 
 How to reproduce :
 
-```pnpm install
-   pnpm build
-```
+```pnpm install```
+```pnpm build```
